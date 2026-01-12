@@ -31,7 +31,7 @@ Atualmente, foco no desenvolvimento de **micro SaaS**, automações e produtos d
 | Projeto                                 | Descrição                                                                                                        | Stack                                    |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | **[DocSafe](https://docsafe.app.br)**   | SaaS de Segurança do Trabalho com gestão de documentos, PGR, EPIs, treinamentos, QR Code e integrações externas. | Next.js • TypeScript • Supabase • Stripe |
-| **[Orbitsys](https://orbitsys.com.br)** | Sistema de **PDV e Gestão de Estoque**, com suporte a PDV offline, integrações fiscais e app desktop.            | React • TypeScript • MongoDB • Electron  |
+| **[Lisco](https://orbitsys.com.br)** | Sistema de **PDV e Gestão de Estoque**, com suporte a PDV offline, integrações fiscais e app desktop.            | React • TypeScript • MongoDB • Electron  |
 
 ---
 
