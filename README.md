@@ -31,7 +31,7 @@ Atualmente, foco no desenvolvimento de **micro SaaS**, automações e produtos d
 | Projeto                                 | Descrição                                                                                                        | Stack                                    |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | **[DocSafe](https://docsafe.app.br)**   | SaaS de Segurança do Trabalho com gestão de documentos, PGR, EPIs, treinamentos, QR Code e integrações externas. | Next.js • TypeScript • Supabase • Stripe |
-| **[Lisco](https://orbitsys.com.br)** | Sistema de **PDV e Gestão de Estoque**, com suporte a PDV offline, integrações fiscais e app desktop.            | React • TypeScript • MongoDB • Electron  |
+| **[Lynko](https://lynko.pro)** | Loja diretamente no link da bio para criadores, influenciadores e profissionais no Instagram e Tiktok.          | Next.js • TypeScript • Supabase • Stripe • Asaas  |
 
 ---
 
@@ -39,7 +39,7 @@ Atualmente, foco no desenvolvimento de **micro SaaS**, automações e produtos d
 
 * 💼 [LinkedIn](https://linkedin.com/in/mateus-de-almeida-a66643329)
 * 🐙 [GitHub](https://github.com/almeida-137)
-* ✉️ **[mateus@mavicompany.com.br](mailto:mateus@mavicompany.com.br)**
+* ✉️ **[mateus@mavicompany.com.br](mailto:mateus.almeida@mavicompany.com.br)**
 
 ---
 
