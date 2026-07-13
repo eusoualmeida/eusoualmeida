@@ -67,10 +67,10 @@ n8n • LLMs • AI Agents • Prompt Engineering
 
 | Project | Description |
 |---------|-------------|
-| 🚀 **DocSafe** | Multi-tenant SaaS for Occupational Safety Management. |
-| 🏢 **Lisco ERP** | Offline-first ERP platform for retail operations. |
-| 🌐 **Lynko** | Creator platform for selling digital products, services and subscriptions. |
-| 🤖 **AI Agents** | AI-powered business automation using n8n and LLMs. |
+| 🚀 **[DocSafe](https://docsafe.app.br/)** | Multi-tenant SaaS for Occupational Safety Management. |
+| 🏢 **[Lisco ERP](http://painel.lisco.pro/)** | Offline-first ERP platform for retail operations. |
+| 🌐 **[Lynko](http://lynko.pro/)** | Creator platform for selling digital products, services and subscriptions. |
+| 🤖 **[AI Agents](https://www.mavicompany.com.br/cases)** | AI-powered business automation using n8n and LLMs. |
 
 ---
 
