@@ -17,10 +17,10 @@ My work spans the entire software lifecycle—from software architecture and bac
 **Software Engineer** • Marruá Engenharia *(2026 – Present)*  
 Building full-stack applications, scalable REST APIs and AI-powered automation for enterprise solutions.
 
-**Founder & Software Engineer** • DocSafe *(2024 – Present)*  
+**Founder & Software Engineer** • DocSafe *(2024 – 2026)*  
 Building a multi-tenant SaaS platform for Occupational Safety Management, from architecture to production.
 
-**Co-Founder & Software Engineer** • Lisco ERP *(2024 – Present)*  
+**Co-Founder & Software Engineer** • Lisco ERP *(2023 – 2025)*  
 Developing an offline-first ERP platform with desktop POS, cloud synchronization and commercial management features.
 
 **Software Analyst** • PostPortas *(2024 – 2026)*  
