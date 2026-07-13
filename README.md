@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>Software Engineer</strong><br>
-  Building SaaS, Enterprise Systems & AI-powered Automation
+  Software Engineer
+  Building SaaS, Enterprise Software, AI Automation and Digital Products.
 </p>
 
 ---
@@ -62,16 +63,14 @@ n8n • LLMs • AI Agents • Prompt Engineering
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Building
 
-### 🚀 DocSafe
-Enterprise SaaS for Occupational Safety Management with multi-tenant architecture, document management and subscription billing. :contentReference[oaicite:4]{index=4}
-
-### 🏢 Lisco ERP
-Offline-first ERP platform featuring desktop POS, inventory management and automatic data synchronization. :contentReference[oaicite:5]{index=5}
-
-### 🤖 AI Agents
-Business automation solutions powered by n8n and Large Language Models (LLMs) for customer service, recruitment and internal workflows. :contentReference[oaicite:6]{index=6}
+| Project | Description |
+|---------|-------------|
+| 🚀 **DocSafe** | Multi-tenant SaaS for Occupational Safety Management. |
+| 🏢 **Lisco ERP** | Offline-first ERP platform for retail operations. |
+| 🌐 **Lynko** | Creator platform for selling digital products, services and subscriptions. |
+| 🤖 **AI Agents** | AI-powered business automation using n8n and LLMs. |
 
 ---
 
