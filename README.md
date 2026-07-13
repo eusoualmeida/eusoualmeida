@@ -7,126 +7,70 @@
 
 ---
 
-I'm a Brazilian Software Engineer focused on designing and building scalable software products.
-
-I enjoy turning complex business requirements into reliable systems through clean architecture, backend engineering, cloud infrastructure and AI-powered automation.
-
-Currently working on SaaS platforms, ERP systems and intelligent business agents.
+I'm a Brazilian Software Engineer focused on building scalable SaaS platforms, enterprise systems and AI-powered automation. My work spans the entire software lifecycle—from software architecture and backend engineering to cloud infrastructure and production deployments.
 
 ---
 
-## Expertise
+## 💼 Professional Experience
+
+**Software Engineer** • Marruá Engenharia *(2026 – Present)*  
+Building full-stack applications, scalable REST APIs and AI-powered automation for enterprise solutions.
+
+**Founder & Software Engineer** • DocSafe *(2024 – Present)*  
+Building a multi-tenant SaaS platform for Occupational Safety Management, from architecture to production.
+
+**Co-Founder & Software Engineer** • Lisco ERP *(2024 – Present)*  
+Developing an offline-first ERP platform with desktop POS, cloud synchronization and commercial management features.
+
+**Software Analyst** • PostPortas *(2024 – 2026)*  
+Developed industrial software, CNC automation and SQL-based process optimization.
+
+---
+
+## 🎯 Expertise
 
 - Software Architecture
-- Clean Architecture
-- SOLID Principles
-- Multi-tenant SaaS
-- Offline-first Applications
+- Backend Engineering
+- SaaS Development
 - API Design
 - Database Modeling
-- Payment Integrations
-- Cloud Deployments
-- AI-powered Automation
+- Cloud Infrastructure
+- AI Automation
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+**Languages**  
+TypeScript • JavaScript • PHP • Python • SQL
 
-- TypeScript
-- JavaScript
-- PHP
-- Python
-- SQL
+**Backend**  
+Node.js • Fastify • Laravel • REST APIs
 
-### Backend
+**Frontend**  
+React • Next.js • Electron
 
-- Node.js
-- Fastify
-- Laravel
-- REST APIs
-- Authentication
-- Webhooks
+**Databases**  
+PostgreSQL • MongoDB • Supabase
 
-### Frontend
+**Infrastructure**  
+Docker • Linux • AWS • VPS • Traefik • Nginx • Git • CI/CD
 
-- React
-- Next.js
-- Electron
+**AI & Automation**  
+n8n • LLMs • AI Agents • Prompt Engineering
 
-### Databases
-
-- PostgreSQL
-- MongoDB
-- Supabase
-
-### Infrastructure & DevOps
-
-- Docker
-- Linux
-- AWS
-- VPS
-- Traefik
-- Nginx
-- SSL
-- Reverse Proxy
-- Git
-- GitHub Actions
-- CI/CD
-
-### AI & Automation
-
-- n8n
-- AI Agents
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Workflow Automation
-- 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🚀 DocSafe
-
-Enterprise SaaS for Occupational Safety Management.
-
-**Highlights**
-
-- Multi-tenant Architecture
-- Authentication & Authorization
-- Subscription Billing
-- Document Management
-- REST APIs
-- Notification System
-
----
+Enterprise SaaS for Occupational Safety Management with multi-tenant architecture, document management and subscription billing. :contentReference[oaicite:4]{index=4}
 
 ### 🏢 Lisco ERP
-
-Offline-first ERP focused on retail and commercial operations.
-
-**Highlights**
-
-- Desktop POS
-- Inventory Management
-- Sales Management
-- Automatic Synchronization
-- Offline-first Architecture
-
----
+Offline-first ERP platform featuring desktop POS, inventory management and automatic data synchronization. :contentReference[oaicite:5]{index=5}
 
 ### 🤖 AI Agents
-
-Business automation powered by n8n and LLMs.
-
-Examples:
-
-- Customer Service
-- Recruitment
-- CRM Automation
-- WhatsApp Automation
-- Internal Business Workflows
+Business automation solutions powered by n8n and Large Language Models (LLMs) for customer service, recruitment and internal workflows. :contentReference[oaicite:6]{index=6}
 
 ---
 
