@@ -7,7 +7,8 @@
 
 ---
 
-I'm a Brazilian Software Engineer focused on building scalable SaaS platforms, enterprise systems and AI-powered automation. My work spans the entire software lifecycle—from software architecture and backend engineering to cloud infrastructure and production deployments.
+I'm a Brazilian Software Engineer focused on building scalable SaaS platforms, enterprise systems and AI-powered automation. 
+My work spans the entire software lifecycle—from software architecture and backend engineering to cloud infrastructure and production deployments.
 
 ---
 
