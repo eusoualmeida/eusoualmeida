@@ -13,8 +13,6 @@
 
 ---
 
-## About
-
 I'm a Brazilian Software Engineer focused on designing and building scalable software products.
 
 I enjoy turning complex business requirements into reliable systems through clean architecture, backend engineering, cloud infrastructure and AI-powered automation.
@@ -72,7 +70,6 @@ Currently working on SaaS platforms, ERP systems and intelligent business agents
 ### Infrastructure & DevOps
 
 - Docker
-- Docker Compose
 - Linux
 - AWS
 - VPS
@@ -146,24 +143,6 @@ Examples:
 - Write clean, testable and reusable code.
 - Build products ready for production.
 - Automate repetitive workflows whenever possible.
-
----
-
-## Currently Learning
-
-- Java
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eusoualmeida&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusoualmeida&layout=compact&hide_border=true&theme=github_dark"/>
-
-</p>
 
 ---
 
