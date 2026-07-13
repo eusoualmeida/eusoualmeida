@@ -1,50 +1,173 @@
-<h1 align="center">Mateus de Almeida</h1>
+<h1 align="center">Mateus Almeida</h1>
+
 <p align="center">
-💻 Desenvolvedor Full Stack | Software Engineer | SaaS & APIs | Remote Friendly
+  <strong>Software Engineer</strong><br>
+  Building SaaS, Enterprise Systems & AI-powered Automation
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/eusoualmeida">LinkedIn</a> •
+  <a href="https://github.com/eusoualmeida">GitHub</a> •
+  <a href="mailto:mateus.almeida@mavicompany.com.br">Email</a>
 </p>
 
 ---
- 
-## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Full Stack** com mais de **4 anos de experiência prática** no desenvolvimento de **sistemas web, plataformas SaaS em produção e produtos digitais**.
+## About
 
-Atuo tanto no **frontend quanto no backend**, com foco em **arquitetura escalável, performance e boas práticas de código**. Tenho experiência em projetos para **startups, sistemas corporativos, PDV, integrações fiscais e SaaS**, sempre trabalhando próximo às regras de negócio e à entrega de valor real.
+I'm a Brazilian Software Engineer focused on designing and building scalable software products.
 
-Atualmente, foco no desenvolvimento de **micro SaaS**, automações e produtos digitais com potencial de escala.
+I enjoy turning complex business requirements into reliable systems through clean architecture, backend engineering, cloud infrastructure and AI-powered automation.
 
----
-
-## 🧰 Stack Principal
-
-* **Linguagens:** JavaScript, TypeScript, PHP, Python
-* **Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui
-* **Backend:** Node.js, Laravel, Express
-* **Banco de Dados:** PostgreSQL, MySQL, MongoDB, Supabase
-* **Infra & Ferramentas:** Git, Docker, Vercel, Railway
-* **Idiomas:** Português (nativo), Inglês (técnico)
+Currently working on SaaS platforms, ERP systems and intelligent business agents.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Expertise
 
-| Projeto                                 | Descrição                                                                                                        | Stack                                    |
-| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| **[DocSafe](https://docsafe.app.br)**   | SaaS de Segurança do Trabalho com gestão de documentos, PGR, EPIs, treinamentos, QR Code e integrações externas. | Next.js • TypeScript • Supabase • Stripe |
-| **[Lynko](https://lynko.pro)** | Loja diretamente no link da bio para criadores, influenciadores e profissionais no Instagram e Tiktok.          | Next.js • TypeScript • Supabase • Stripe • Asaas  |
-
----
-
-## 📫 Contato
-
-* 💼 [LinkedIn](https://linkedin.com/in/mateus-de-almeida-a66643329)
-* 🐙 [GitHub](https://github.com/almeida-137)
-* ✉️ **[mateus.almeida@mavicompany.com.br](mailto:mateus.almeida@mavicompany.com.br)**
+- Software Architecture
+- Clean Architecture
+- SOLID Principles
+- Multi-tenant SaaS
+- Offline-first Applications
+- API Design
+- Database Modeling
+- Payment Integrations
+- Cloud Deployments
+- AI-powered Automation
 
 ---
 
-## ⚡ Extras
+## Tech Stack
 
-* 🚀 Disponível para **oportunidades remotas (CLT ou PJ)**
-* 🧠 Interesse em **SaaS, automações, IA aplicada e produtos digitais**
-* 🎯 Foco em resolver **problemas reais com software bem construído**
+### Languages
+
+- TypeScript
+- JavaScript
+- PHP
+- Python
+- SQL
+
+### Backend
+
+- Node.js
+- Fastify
+- Laravel
+- REST APIs
+- Authentication
+- Webhooks
+
+### Frontend
+
+- React
+- Next.js
+- Electron
+
+### Databases
+
+- PostgreSQL
+- MongoDB
+- Supabase
+
+### Infrastructure & DevOps
+
+- Docker
+- Docker Compose
+- Linux
+- AWS
+- VPS
+- Traefik
+- Nginx
+- SSL
+- Reverse Proxy
+- Git
+- GitHub Actions
+- CI/CD
+
+### AI & Automation
+
+- n8n
+- AI Agents
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Workflow Automation
+- 
+---
+
+## Featured Projects
+
+### 🚀 DocSafe
+
+Enterprise SaaS for Occupational Safety Management.
+
+**Highlights**
+
+- Multi-tenant Architecture
+- Authentication & Authorization
+- Subscription Billing
+- Document Management
+- REST APIs
+- Notification System
+
+---
+
+### 🏢 Lisco ERP
+
+Offline-first ERP focused on retail and commercial operations.
+
+**Highlights**
+
+- Desktop POS
+- Inventory Management
+- Sales Management
+- Automatic Synchronization
+- Offline-first Architecture
+
+---
+
+### 🤖 AI Agents
+
+Business automation powered by n8n and LLMs.
+
+Examples:
+
+- Customer Service
+- Recruitment
+- CRM Automation
+- WhatsApp Automation
+- Internal Business Workflows
+
+---
+
+## Engineering Principles
+
+- Design scalable and maintainable systems.
+- Solve business problems through software.
+- Write clean, testable and reusable code.
+- Build products ready for production.
+- Automate repetitive workflows whenever possible.
+
+---
+
+## Currently Learning
+
+- Java
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eusoualmeida&show_icons=true&hide_border=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusoualmeida&layout=compact&hide_border=true&theme=github_dark"/>
+
+</p>
+
+---
+
+## Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/eusoualmeida
+- 📧 Email: mateus.almeida@mavicompany.com.br
