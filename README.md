@@ -5,12 +5,6 @@
   Building SaaS, Enterprise Systems & AI-powered Automation
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/eusoualmeida">LinkedIn</a> •
-  <a href="https://github.com/eusoualmeida">GitHub</a> •
-  <a href="mailto:mateus.almeida@mavicompany.com.br">Email</a>
-</p>
-
 ---
 
 I'm a Brazilian Software Engineer focused on designing and building scalable software products.
@@ -149,4 +143,4 @@ Examples:
 ## Let's Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/eusoualmeida
-- 📧 Email: mateus.almeida@mavicompany.com.br
+- 📧 Email: contato@eusoualmeida.com.br
