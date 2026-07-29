@@ -44,13 +44,13 @@ Developed industrial software, CNC automation and SQL-based process optimization
 ## 🛠 Tech Stack
 
 **Languages**  
-TypeScript • JavaScript • PHP • Python • SQL
+Java • TypeScript • JavaScript • PHP • Python • SQL
 
 **Backend**  
-Node.js • Fastify • Laravel • REST APIs
+Spring Boot • Node.js • Fastify • Laravel • REST APIs
 
 **Frontend**  
-React • Next.js • Electron
+React • Next.js • Electron • Vue.js • Angular
 
 **Databases**  
 PostgreSQL • MongoDB • Supabase
